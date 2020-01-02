@@ -1,0 +1,13 @@
+.country-item{
+  font-size: 1.2rem;
+  margin: 0 2rem;
+}
+
+.country-item input[type="radio"]{
+  margin: 0 10px;
+  transform: scale(1.2);
+}
+
+button{
+  margin: 0 10px;
+}
